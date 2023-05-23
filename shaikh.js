@@ -1,1 +1,1 @@
-console.log("hi hellow vazir");
+console.log("hi");
